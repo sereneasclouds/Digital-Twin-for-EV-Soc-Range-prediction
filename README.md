@@ -1,4 +1,4 @@
-# EV Virtual Prototyping — Simulink Full-Stack Drivetrain and Digital Twin for SoC & Range Prediction
+# Digital Twin for SoC & Range Prediction:Simulink Full-Stack EV Drivetrain
 
 A **MATLAB/Simulink-based Electric Vehicle (EV) virtual prototyping and
 digital-twin project** developed to model an integrated electric drivetrain,
