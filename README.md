@@ -19,7 +19,8 @@ associated with early-stage physical prototyping.
 
 The project develops a full-stack EV drivetrain model in **MATLAB/Simulink**
 that connects the electrical, mechanical, control, and battery subsystems of
-an electric vehicle.
+an electric vehicle.The integrated model enables vehicle-level performance and energy
+consumption.
 
 The simulation includes:
 
@@ -37,8 +38,6 @@ The simulation includes:
 - Vehicle distance calculation
 - Driving-range prediction
 
-The integrated model enables vehicle-level performance and energy
-consumption to be studied within a single virtual environment.
 
 ---
 
